@@ -2,8 +2,8 @@ package main
 
 import (
 	"math/rand"
-	"myModule"
 	"time"
+	"workerpool"
 )
 
 const letterBytes = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
