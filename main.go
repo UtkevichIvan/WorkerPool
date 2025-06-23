@@ -1,9 +1,9 @@
 package main
 
 import (
+	"VKTest/workerpool"
 	"math/rand"
 	"time"
-	"workerpool"
 )
 
 const letterBytes = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
